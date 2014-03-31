@@ -6,3 +6,10 @@
 #
 # Pods/
 
+Podfile.lock
+Pods/
+xcuserstate/
+*.xcuserstate
+
+lib/
+include/
